@@ -1,7 +1,9 @@
 ### Howdy 👋
 
 🔭  I’m Jonas Yu Hong, PhD studnet working on space physics.
+
 🌱  I’m studying geospace with numerical simulations and satellite data.
+
 📫  How to reach me: planet0553@gmail.com
 
 
