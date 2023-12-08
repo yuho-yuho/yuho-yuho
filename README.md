@@ -1,10 +1,10 @@
 ### Howdy 👋
 
-🔭  I’m Yu Hong, PhD studnet working on space physics.
+I’m Yu Hong, PhD studnet working on space physics.
 
-🌱  I’m studying geospace with numerical simulations and satellite data.
+I’m studying geospace with numerical simulations and satellite data.
 
-📫  How to reach me: planet0553@gmail.com
+📫  How to reach me: yu.hong@mavs.uta.edu
 
 
 
