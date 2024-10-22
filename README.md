@@ -1,8 +1,11 @@
-### Howdy 👋
+### Hi there 👋
 
-I’m Yu Hong, PhD studnet working on space physics.
+🌱 I’m Yu Hong (nickname: Jonas), a PhD studnet in space physics. 
 
-I’m studying geospace with numerical simulations and satellite data.
+🔭 I study geospace with numerical simulations and satellite data.
+
+### Focus: 
+🤔 magnetosphere-ionosphere coupling during geomagnetic storms
 
 📫  How to reach me: yu.hong@mavs.uta.edu
 
